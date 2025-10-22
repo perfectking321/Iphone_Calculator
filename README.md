@@ -25,6 +25,3 @@ The application opens a GUI window. It supports keyboard input (digits, +, -, *,
 ## Notes
 - Results are formatted: integers are shown without decimals, otherwise rounded to two decimal places.
 - If an error occurs during evaluation the display shows `Error`.
-
-## License
-Use as you like.
